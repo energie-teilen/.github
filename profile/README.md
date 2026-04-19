@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Build-0A66C2?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Location-Frankfurt%20am%20Main%2C%20Germany-111827?style=flat-square" alt="Location">
-  <a href="https://opensource.org/license/apache-2-0"><img src="https://img.shields.io/badge/License-Apache%202.0-2563eb.svg?style=flat-square" alt="License"></a>
+  <img src="./assets/energie-teilen-mark.png" alt="Energie Teilen" width="180">
 </p>
 
 <p align="center">
-  <img src="./assets/energie-teilen-mark.png" alt="Energie Teilen" width="180">
+  <img src="https://img.shields.io/badge/Status-Active%20Build-0A66C2?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Location-Frankfurt%20am%20Main%2C%20Germany-111827?style=flat-square" alt="Location">
+  <a href="https://opensource.org/license/apache-2-0"><img src="https://img.shields.io/badge/License-Apache%202.0-2563eb.svg?style=flat-square" alt="License"></a>
 </p>
 
 # Energie Teilen
